@@ -181,3 +181,7 @@ button:hover,button:focus,
 .bridge{
   animation: 10s move infinite alternate linear;
 }
+.contact{
+  margin:auto;
+  text-align: center;
+}

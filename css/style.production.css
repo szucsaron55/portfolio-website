@@ -272,3 +272,7 @@ button:focus{
   -webkit-animation: 10s move infinite alternate linear;
           animation: 10s move infinite alternate linear;
 }
+.contact{
+    margin:auto;
+    text-align: center;
+  }
